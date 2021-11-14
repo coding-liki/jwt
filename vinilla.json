@@ -1,0 +1,11 @@
+{
+    "name": "Jwt",
+    "vendor": "Lcobucci",
+    "description": "Форк проекта https://github.com/lcobucci/jwt для использования в экосистеме VinillaLaPuh(VLP)",
+    "repo_url": "https://github.com/coding-liki/jwt",
+    "version": "0.1",
+    "depends_on": [
+        "CodingLiki/OoAutoloader",
+        "Lcobucci/Clock"
+    ]
+}
